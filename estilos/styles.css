@@ -1,36 +1,36 @@
-    body {
-        color: white;
-        background: #572364;
-        font-family: "Roboto";
-    }
+body {
+    color: white;
+    background: #572364;
+    font-family: "Roboto";
+}
 
-    h1 {
-        font-size: 55px;
-        line-height: 55px;
-    }
+h1 {
+    font-size: 55px;
+    line-height: 55px;
+}
 
-    h1 strong {
-        color: #D473D4;
-    }
+h1 strong {
+    color: #D473D4;
+}
 
-    header ul li a {
-        color: white;
-        text-decoration: none;
-    }
+header ul li a {
+    color: white;
+    text-decoration: none;
+}
 
-    header ul {
-        list-style: none;
-    }
+header ul {
+    list-style: none;
+}
 
-    header ul li {
-        display: inline;
-    }
+header ul li {
+    display: inline;
+}
 
-    header, main, footer {
-        border: dotted yellow;
-        margin: 0 80 0 80px;
-    }
+header, main, footer {
+    border: dotted yellow;
+    margin: 0 80 0 80px;
+}
 
-    footer {
-        background: #800080;
-    }
+footer {
+    background: #800080;
+}
